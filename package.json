@@ -1,0 +1,24 @@
+{
+  "name": "vcc-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g24ai1107/vcc-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g24ai1107/vcc-assignment/issues"
+  },
+  "homepage": "https://github.com/g24ai1107/vcc-assignment#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0"
+  }
+}
